@@ -1,0 +1,10 @@
+1403772495001
+node1   send   -1   time:1403772505545
+node   start tick   0  1403772506172
+node   add tasks   0  1
+node  end add  wait for tasks end   0  0
+node  all tasks end   0  0
+currentTick:  0  0 messages to be sent 
+node  all messages sent   0  1
+messages send   :    0     1
+node1   send   0   time:1403772506174

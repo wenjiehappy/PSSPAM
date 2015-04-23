@@ -1,0 +1,51 @@
+1403319611813
+node1   send   -1
+node1 received 0
+node   start tick   0  1403319871520
+node   add tasks   0  651
+node  end add  weit for tasks end   0  0
+node1   0   1403319910186
+node1 2  0   16
+node1 3  0   1
+node1   0   1403319952515
+node1 2  0   6
+node1 3  0   0
+node  all tasks end   0  82315
+node  all messages sent   0  3
+node1   send   0
+node1 received 1
+node   start tick   1  576113
+node   add tasks   1  727
+node  end add  weit for tasks end   1  0
+node  all tasks end   1  1
+node  all messages sent   1  0
+node1   send   1
+node1   1   1403320571987
+node1 2  1   12
+node1 3  1   0
+node1   1   1403320609460
+node1 2  1   5
+node1 3  1   0
+node1 received 2
+node   start tick   2  596684
+node   add tasks   2  774
+node  end add  weit for tasks end   2  1
+node1   2   1403321169020
+node1 2  2   11
+node1 3  2   0
+node1   2   1403321208170
+node1 2  2   7
+node1 3  2   1
+node  all tasks end   2  81379
+node  all messages sent   2  2
+node1   send   2
+controlMessages:          3
+orderMessages:            0
+controlMessageSize:       48
+orderMessageSize:         0
+communicationMessages:    0
+communicationMessageSize: 0
+innerMessages:            0
+innerMessageSize:         0
+interMessages:            3
+interMessageSize:         48
